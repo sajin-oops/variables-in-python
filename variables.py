@@ -12,7 +12,7 @@ print(name_first)
 
 #valid variable name can be
 
-''' - multi line command
+''' - multi line comment
 name_first,name_2223, _name
 '''
 
